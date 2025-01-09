@@ -1,81 +1,46 @@
-# 👨‍💻 Cybersecurity Specialist | Defender of the Digital Realm 🛡️
 
-Hi there! Welcome to my GitHub profile!  
-I'm **Miguel Angel Gil Cardona**, a passionate **Cybersecurity Specialist** with a mission to protect, detect, and respond to threats in the ever-evolving digital landscape.  
-With **1 year** of experience in cybersecurity and a drive for continuous learning, I specialize in **Network Security
-Cloud Security (AWS, Azure, Google Cloud)
-Application Security
-Digital Forensics
-Penetration Testing
-Incident Response
-Vulnerability Assessment
-Threat Intelligence
-IoT Security
-ISO 270001
-Industrial Control Systems (ICS) Security
-Security Operations (SOC)
-Governance, Risk, and Compliance (GRC)
-Malware Analysis
-Zero Trust Architecture**.
+👨‍💻 Help Desk Technician | IT Support Specialist 🛠️
+Hi there! Welcome to my GitHub profile!
+I'm Miguel Angel Gil Cardona, an enthusiastic IT Support Specialist with a strong foundation in customer service and technical troubleshooting. With 7 years of experience in customer support (4 years bilingual) and a passion for technology, I specialize in providing exceptional technical support and resolving complex IT issues efficiently.
 
----
+🌟 My Expertise
+🔧 Technical Support & Troubleshooting
 
-## 🌟 My Expertise
+Resolving hardware, software, and network issues for end-users.
+🖥️ Help Desk Operations
 
-🔒 **Cyber Defense & Threat Hunting**  
-- Tracking, analyzing, and neutralizing threats to secure systems.
+Assisting users with ticketing systems, account management, and remote support.
+📊 Customer Service Excellence
 
-🛠️ **Penetration Testing & Vulnerability Assessment**  
-- Uncovering weak spots before attackers do.
+Delivering high-quality support and improving user satisfaction through clear communication and timely solutions.
+🛠️ Technologies & Tools
+Here are some of the tools and technologies I use regularly:
 
-⚙️ **Incident Response & Digital Forensics**  
-- Rapidly responding to incidents and uncovering the trail.
+Operating Systems: Windows (10, Server), macOS, Linux (Ubuntu, Kali)
+Tools: Active Directory, HubSpot, Zendesk, Office 365, Google Workspace
+Networking: DNS, DHCP, VPN, TCP/IP troubleshooting
+Languages: Python (basic scripting), Bash
+🔍 Featured Projects
+📁 Network Diagnostic Tool Setup
+Description: Created and implemented a step-by-step guide for diagnosing common network issues using tools like Nmap and Wireshark, improving response times for IT teams.
 
-📜 **Compliance & Risk Management**  
-- Ensuring adherence to standards like ISO 27001, NIST, and GDPR.
+📁 System Optimization Guide
+Description: Developed a detailed user manual for optimizing Windows and Linux systems to enhance performance and security.
 
----
+🚀 Certifications & Achievements
+📜 Google IT Support Professional Certificate
+🛡️ CompTIA A+
+🎓 CompTIA Security+
 
-## 🛠️ Technologies & Tools
+✨ Fun Facts About Me
+💻 I enjoy building and repairing computers in my free time.
+🎧 Music helps me stay focused during troubleshooting sessions.
+🎮 Gamer by passion, always curious about gaming tech!
+📫 Connect With Me
+Let’s collaborate or discuss tech solutions!
 
-Here are some of the tools and technologies I use regularly:  
-- **Languages**: Python, Bash, PowerShell  
-- **Tools**: Wireshark, Metasploit, Nmap, Nessus, Splunk, Burp Suite  
-- **Platforms**: AWS, Azure, Linux (various distributions), Windows Server  
+Email: Mangelcard@hotmail.com  
+LinkedIn: [Linkedin](https://www.linkedin.com/in/miguel-angel-gil-cardona-113797180)
+Thanks for visiting! Don’t forget to ⭐ my repos if you find them helpful! 😊
 
----
 
-## 🔍 Featured Projects
-
-### 📁 [Project Name](https://github.com/your-profile/your-project-link)  
-**Description:** Briefly explain the project. Highlight how it contributes to cybersecurity (e.g., a custom script to automate threat detection, a penetration testing toolkit, etc.).
-
-### 📁 [Project Name](https://github.com/your-profile/your-project-link)  
-**Description:** Another project with a short and impactful description.
-
----
-
-## 🚀 Certifications & Achievements
-
-🛡️ **Certified Ethical Hacker (CEH)**  
-🎓 **CompTIA Security+**  
-🏆 **[Add more relevant certifications]**
-
----
-
-## ✨ Fun Facts About Me
-
-- 🕵️ I enjoy playing CTFs and hacking challenges in my free time.  
-- ☕ Coffee fuels my late-night bug hunts.  
-- 🎮 Gamer by passion, defender by profession!  
-
----
-
-## 📫 Connect With Me
-
-Let's collaborate or talk about security!  
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- **Website/Portfolio:** [Your Portfolio](https://your-portfolio.com)  
-
-Thanks for visiting! Don't forget to ⭐ my repos if you find them helpful! 😄
